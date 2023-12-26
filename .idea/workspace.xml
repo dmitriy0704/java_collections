@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51073045-871e-4220-8de9-d7a4877e651b" name="Changes" comment="int project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/collections_pack/Collection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/collections_pack/CollectionsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/collections_pack/IterableMain.java" afterDir="false" />
+    <list default="true" id="51073045-871e-4220-8de9-d7a4877e651b" name="Changes" comment="Collections..">
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack/IterableIterator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack/IterableMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my/home/collections_pack/IterableMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.IterableMain">
     <configuration name="IterableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.home.collections_pack.IterableMain" />
@@ -104,7 +109,7 @@
       <updated>1703613685738</updated>
       <workItem from="1703613686767" duration="57000" />
       <workItem from="1703613751873" duration="137000" />
-      <workItem from="1703613901979" duration="834000" />
+      <workItem from="1703613901979" duration="3961000" />
     </task>
     <task id="LOCAL-00001" summary="int project">
       <option name="closed" value="true" />
@@ -114,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703613858113</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Collections..">
+      <option name="closed" value="true" />
+      <created>1703614789174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703614789174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +137,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="int project" />
-    <option name="LAST_COMMIT_MESSAGE" value="int project" />
+    <MESSAGE value="Collections.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections.." />
   </component>
 </project>
