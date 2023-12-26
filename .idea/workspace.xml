@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51073045-871e-4220-8de9-d7a4877e651b" name="Changes" comment="Collections..">
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack/IterableIterator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack/IterableMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my/home/collections_pack/IterableMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2a5g6zWIFmUpgecnokvYeM30yjP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,6 +47,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -95,7 +93,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-5f3ff201" />
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-86fc8109" />
       </set>
     </attachedChunks>
   </component>
@@ -110,6 +108,8 @@
       <workItem from="1703613686767" duration="57000" />
       <workItem from="1703613751873" duration="137000" />
       <workItem from="1703613901979" duration="3961000" />
+      <workItem from="1703619627109" duration="446000" />
+      <workItem from="1703620094594" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="int project">
       <option name="closed" value="true" />
