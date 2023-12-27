@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51073045-871e-4220-8de9-d7a4877e651b" name="Changes" comment="Comparable и Comparator">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/comparable_comparator/ComparableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/comparable_comparator/MyClass.java" afterDir="false" />
+    <list default="true" id="51073045-871e-4220-8de9-d7a4877e651b" name="Changes" comment="Comparable и Comparator. List&lt;T&gt;...">
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/home/comparable_comparator/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/java-collections.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +45,14 @@
     "Application.IterableMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyClass.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.my.home.comparable_comparator.MyClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/devs/code/java/java_collections/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,11 +63,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/my/home/iterable_iterator_pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.my.home.comparable_comparator.MyClass">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ComparableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.home.comparable_comparator.ComparableMain" />
       <module name="java_collections" />
@@ -106,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.home.comparable_comparator.Test" />
+      <module name="java_collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.home.comparable_comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="my.home.comparable_comparator.MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.home.comparable_comparator.MyClass" />
       <module name="java_collections" />
@@ -121,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.my.home.comparable_comparator.MyClass" />
         <item itemvalue="Application.ComparableMain" />
         <item itemvalue="Application.MyClass" />
@@ -149,7 +167,7 @@
       <workItem from="1703619627109" duration="446000" />
       <workItem from="1703620094594" duration="21000" />
       <workItem from="1703620335342" duration="2363000" />
-      <workItem from="1703664830752" duration="6727000" />
+      <workItem from="1703664830752" duration="13197000" />
     </task>
     <task id="LOCAL-00001" summary="int project">
       <option name="closed" value="true" />
@@ -175,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703626055116</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Comparable и Comparator. List&lt;T&gt;...">
+      <option name="closed" value="true" />
+      <created>1703679820019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703679820019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +213,7 @@
     <MESSAGE value="int project" />
     <MESSAGE value="Collections.." />
     <MESSAGE value="Comparable и Comparator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comparable и Comparator" />
+    <MESSAGE value="Comparable и Comparator. List&lt;T&gt;..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparable и Comparator. List&lt;T&gt;..." />
   </component>
 </project>
